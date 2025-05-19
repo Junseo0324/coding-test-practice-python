@@ -24,3 +24,4 @@ for _ in range(10):
 
 
     print("#"+str(test_case)+" "+str(max(max_row,max_col,diagonal_sum,diagonal_minus_sum)))
+
